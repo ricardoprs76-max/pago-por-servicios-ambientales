@@ -48,7 +48,7 @@ Capturas tomadas con los datos ficticios de `supabase/seed.sql`.
 
 ### Modo local (sin servicios externos)
 ```bash
-git clone https://github.com/ricardoprs76-max/psa.git
+git clone https://github.com/ricardoprs76-max/pago-por-servicios-ambientales.git
 cd psa/web
 npm install
 npm run dev          # http://localhost:3210
